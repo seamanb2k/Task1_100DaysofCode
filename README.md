@@ -1,2 +1,2 @@
 # Task1_100DaysofCode
-I love computer programming, creative designs and music.
+This is a follow-through practice of the 100 days of code...!
