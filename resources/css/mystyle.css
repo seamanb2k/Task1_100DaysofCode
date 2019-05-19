@@ -1,0 +1,70 @@
+body{
+  background:rgb(25, 25, 119);
+}
+#main{
+  /* background-color: rgb(25, 25, 119); */
+  width: 100%;
+  position:relative;
+  overflow-x: hidden;
+
+}
+
+.headerText {
+  color:white;
+  font-size: 26px;
+  margin-left: 80px;
+  font-family: 'Times New Roman'arial, Garamond, Times, serif;
+}
+
+.whiteText {
+  color:white;
+  font-size: 18px;
+  margin-left: 80px;
+}
+
+.gallery{
+    margin-top: 10px;
+    height:280px;
+    margin-left: 40px;
+   
+}
+
+.center{
+  background-color: rgb(25, 25, 119);
+  height: auto;
+  max-width: 100%;
+  position: relative;
+  float:left;
+  margin-left:40px;
+
+
+}
+
+.customText{
+  color:white;
+  margin-left:40px;
+}
+
+.p{
+  color:white;
+  margin-left:20px;
+}
+
+#btn{
+  background-color:orange;
+  color:white;
+  border-color:orange;
+  padding: 15px;
+  margin-left: 40px;
+
+}
+
+#bottom{
+  float:left;
+  width: 50%;
+}
+
+.bottom2{
+  width: 50%;
+  float:left;
+}
